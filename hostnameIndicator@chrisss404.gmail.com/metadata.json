@@ -1,0 +1,9 @@
+{
+  "shell-version": [
+    "50"
+  ],
+  "uuid": "hostnameIndicator@chrisss404.gmail.com",
+  "name": "Hostname Indicator",
+  "url": "https://github.com/chrisss404/gnome-shell-hostname-indicator",
+  "description": "Adds a hostname indicator to the top bar during screen sharing."
+}
